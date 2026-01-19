@@ -13,11 +13,19 @@ Ngọc và Hà gặp lỗi merge conflict khi thực hiện merge Pull Request c
 - Sau khi hoàn tất chỉnh sửa, Ngọc commit và push lại các thay đổi đã được giải quyết.
 - Pull Request sau đó được merge thành công vào nhánh main.
 
+![alt text](image.png)
+
+![alt text](image-1.png)
+
 Đối với Hà:
 - Thực hiện pull các thay đổi mới nhất từ nhánh main về nhánh làm việc của mình.
 - Git phát hiện merge conflict do trùng lặp nội dung chỉnh sửa trong README.md.
 - Hà xử lý xung đột bằng phương pháp chỉnh sửa thủ công thông qua Merge Editor của VS Code.
 - Sau khi commit và push lại các thay đổi, Pull Request được merge vào nhánh main.
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
 
 Nhóm đã sử dụng phương pháp Local Merge Resolution để giải quyết xung đột bằng cách kéo phiên bản mới nhất từ nhánh main và chỉnh sửa thủ công nhằm giữ lại tất cả các thay đổi hợp lệ trước khi commit và push lại.
 
