@@ -41,6 +41,7 @@ Nhóm đã sử dụng phương pháp Local Merge Resolution để giải quyế
 
 - Các buổi trao đổi ngắn hằng ngày (mini Daily Standup) giúp các thành viên cập nhật tiến độ công việc, nêu rõ những việc đã làm, đang làm và các khó khăn gặp phải.
 - Nhờ Daily Standup, nhóm kịp thời điều chỉnh kế hoạch, phân công lại công việc khi cần và tránh tình trạng trùng lặp hoặc bỏ sót nhiệm vụ.
+- Việc trao đổi thường xuyên giúp nhóm linh hoạt điều chỉnh kế hoạch khi có thay đổi yêu cầu hoặc rủi ro phát sinh.
 - Việc chia nhỏ công việc theo User Story và theo dõi trên Project Board giúp nhóm kiểm soát tiến độ một cách trực quan và minh bạch.
 - Các sự kiện Agile giúp tăng cường giao tiếp giữa các thành viên, nâng cao tinh thần trách nhiệm cá nhân và sự phối hợp trong nhóm.
-- Nhờ áp dụng Agile, nhóm duy trì được nhịp độ làm việc ổn định và hoàn thành Assignment đúng thời hạn.
+- Các sự kiện Agile giúp nhóm duy trì sự minh bạch, phát hiện sớm vấn đề và đảm bảo dự án luôn đi đúng hướng theo mục tiêu đã đề ra.
