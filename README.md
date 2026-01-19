@@ -1,1 +1,1 @@
-## Team Portfolio
+- Home introduction implemented by Long
