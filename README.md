@@ -1,1 +1,1 @@
-- Home introduction implemented by Long
+RESET
