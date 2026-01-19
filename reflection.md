@@ -23,8 +23,6 @@ Nhóm đã sử dụng phương pháp Local Merge Resolution để giải quyế
 
 ## Giá trị của Code Review trong làm việc nhóm
 
-Code Review mang lại nhiều giá trị quan trọng trong quá trình làm việc nhóm:
-
 - Phát hiện lỗi sớm: Giúp phát hiện bug, lỗi logic hoặc các trường hợp chưa xử lý trước khi mã nguồn được merge vào nhánh chính, từ đó giảm chi phí sửa lỗi về sau.
 - Cải thiện chất lượng mã nguồn: Thông qua góp ý về cách viết code, đặt tên, cấu trúc và hiệu năng, mã nguồn trở nên rõ ràng, dễ đọc và dễ bảo trì hơn.
 - Đảm bảo tuân thủ tiêu chuẩn chung: Code review giúp các thành viên tuân theo coding convention, kiến trúc và quy ước của dự án.
@@ -33,6 +31,8 @@ Code Review mang lại nhiều giá trị quan trọng trong quá trình làm vi
 
 ## Vai trò của các sự kiện Agile
 
-Các sự kiện Agile, đặc biệt là các buổi trao đổi ngắn hằng ngày (mini Daily Standup), giúp các thành viên nắm rõ tiến độ công việc của nhau và kịp thời phát hiện các khó khăn hoặc trở ngại.
-
-Nhờ áp dụng các sự kiện Agile, nhóm đã phối hợp hiệu quả hơn, tránh trùng lặp công việc, cải thiện khả năng giao tiếp và đảm bảo các nhiệm vụ được hoàn thành đúng thời hạn.
+- Các buổi trao đổi ngắn hằng ngày (mini Daily Standup) giúp các thành viên cập nhật tiến độ công việc, nêu rõ những việc đã làm, đang làm và các khó khăn gặp phải.
+- Nhờ Daily Standup, nhóm kịp thời điều chỉnh kế hoạch, phân công lại công việc khi cần và tránh tình trạng trùng lặp hoặc bỏ sót nhiệm vụ.
+- Việc chia nhỏ công việc theo User Story và theo dõi trên Project Board giúp nhóm kiểm soát tiến độ một cách trực quan và minh bạch.
+- Các sự kiện Agile giúp tăng cường giao tiếp giữa các thành viên, nâng cao tinh thần trách nhiệm cá nhân và sự phối hợp trong nhóm.
+- Nhờ áp dụng Agile, nhóm duy trì được nhịp độ làm việc ổn định và hoàn thành Assignment đúng thời hạn.
