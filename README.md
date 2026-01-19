@@ -1,1 +1,2 @@
 - Home introduction implemented by Long
+- Contact information by Ha
